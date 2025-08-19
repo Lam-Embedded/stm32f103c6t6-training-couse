@@ -1,0 +1,10 @@
+18:34:37 **** Incremental Build of configuration Debug for project 02.LCD_stm32 ****
+make -j8 all 
+arm-none-eabi-size  02.LCD_stm32.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5136	     12	   1572	   6720	   1a40	02.LCD_stm32.elf
+Finished building: default.size.stdout
+ 
+
+18:34:37 Build Finished. 0 errors, 0 warnings. (took 85ms)
+
