@@ -1,0 +1,9 @@
+2025-08-20 08:36:23,623 [INFO] MainUpdater:2872 - connection check result : 10
+2025-08-20 08:36:23,737 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2025-08-20 08:36:23,738 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2025-08-20 08:36:23,738 [INFO] FinderPluginLoader:96 - Searching for filters in installed packs
+2025-08-20 08:36:25,678 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2025-08-20 08:36:25,679 [INFO] DetailPanel:341 - Set advertising image to /home/dev/STM32Cube/Repository//en.2400x1350px.jpeg
+2025-08-20 08:49:52,083 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2025-08-20 08:49:52,475 [INFO] ApiDb:448 - Save user favorites file /home/dev/.stm32cubeide/favorites.mcus.txt: 1 item(s)
+2025-08-20 08:49:52,475 [INFO] ApiDb:452 - User favorites MCUs=[STM32F103C6T6ATR]

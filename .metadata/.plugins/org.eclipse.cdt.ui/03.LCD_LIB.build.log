@@ -1,10 +1,10 @@
-18:44:20 **** Incremental Build of configuration Debug for project 03.LCD_LIB ****
+07:47:29 **** Incremental Build of configuration Debug for project 03.LCD_LIB ****
 make -j8 all 
 arm-none-eabi-size  03.LCD_LIB.elf 
    text	   data	    bss	    dec	    hex	filename
-   5136	     12	   1572	   6720	   1a40	03.LCD_LIB.elf
+   5308	     12	   1604	   6924	   1b0c	03.LCD_LIB.elf
 Finished building: default.size.stdout
  
 
-18:44:20 Build Finished. 0 errors, 0 warnings. (took 134ms)
+07:47:29 Build Finished. 0 errors, 0 warnings. (took 86ms)
 

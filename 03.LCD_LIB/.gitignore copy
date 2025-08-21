@@ -1,0 +1,15 @@
+.settings
+Core/Inc
+Core/Startup
+Core/Src/stm32f1xx_hal_msp.c
+Core/Src/stm32f1xx_it.c
+Core/Src/syscalls.c
+Core/Src/sysmem.c
+Core/Src/system_stm32f1xx.c
+Debug
+Drivers
+.cproject
+.gitignore
+.mxproject
+.project
+STM32F103C6TX_FLASH
